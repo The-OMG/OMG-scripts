@@ -1,0 +1,33 @@
+################################################################################
+#### This .profile makes your login shell "zsh" instead of "bash" or "sh". #####
+################################################################################
+#							      ___           ___           ___                            #
+#							     /  /\         /__/\         /  /\                           #
+#							    /  /::\       |  |::\       /  /:/_                          #
+#							   /  /:/\:\      |  |:|:\     /  /:/ /\                         #
+#							  /  /:/  \:\   __|__|:|\:\   /  /:/_/::\                        #
+#							 /__/:/ \__\:\ /__/::::| \:\ /__/:/__\/\:\                       #
+#							 \  \:\ /  /:/ \  \:\~~\__\/ \  \:\ /~~/:/                       #
+#							  \  \:\  /:/   \  \:\        \  \:\  /:/                        #
+#							   \  \:\/:/     \  \:\        \  \:\/:/                         #
+#							    \  \::/       \  \:\        \  \::/                          #
+#							     \__\/         \__\/         \__\/                           #
+#                                                                              #
+################################################################################
+## Check out everything else: https://github.com/The-OMG/orionsbelt
+## This project: https://github.com/The-OMG/ripme_tools
+#
+## Linuxbrew: http://linuxbrew.sh/
+#
+## No root required.
+#
+## Tested on: https://ultraseedbox.com/
+#             https://cloud.google.com/compute/
+#             https://www.digitalocean.com/
+#
+## Tested on: Debian 8,9
+#             Ubuntu 16.04 - 18.04
+#
+## Requires zsh to be installed prior to this file being installed.
+## If you dont have root access, install zsh with linuxbrew from linuxbrew.sh
+################################################################################
